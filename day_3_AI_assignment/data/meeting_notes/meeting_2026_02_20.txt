@@ -1,0 +1,30 @@
+ACME CORP – PREVIOUS MEETING NOTES
+
+Date: February 20, 2026
+
+Attendees:
+
+* Sarah Johnson – VP Operations, Acme Corp
+* John Smith – Account Manager
+
+Discussion:
+
+Acme confirmed that it is interested in expanding the analytics platform.
+
+The client requested an updated pricing proposal.
+
+Sarah asked whether volume-based pricing would be available for additional regions.
+
+The client also requested a demonstration of the advanced reporting dashboard.
+
+Implementation timeline was discussed, but a final timeline was not provided.
+
+Open Action Items:
+
+1. Share updated pricing proposal.
+2. Provide implementation timeline.
+3. Demonstrate advanced reporting dashboard.
+
+Priority:
+
+Pricing and implementation timeline should be addressed in the next meeting.

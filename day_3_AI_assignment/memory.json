@@ -1,0 +1,12 @@
+[
+    {
+        "client": "Acme Corp",
+        "information": "Client is interested in volume-based pricing.",
+        "type": "pricing_preference"
+    },
+    {
+        "client": "Acme Corp",
+        "information": "Implementation timeline is an important open issue.",
+        "type": "open_concern"
+    }
+]
